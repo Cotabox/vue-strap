@@ -6,9 +6,9 @@
   "typings": "types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "wffranco/vue-strap"
+    "url": "cotabox/vue-strap"
   },
-  "homepage": "http://wffranco.github.io/vue-strap/",
+  "homepage": "http://cotabox.github.io/vue-strap/",
   "directories": {
     "src": "src/"
   },
@@ -74,6 +74,6 @@
     "version": "npm run build && git add -A dist",
     "postversion": "git push && git push --tags"
   },
-  "author": "wffranco",
+  "author": "cotabox",
   "license": "MIT"
 }
