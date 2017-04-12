@@ -6,12 +6,15 @@ This repository contains a set of native Vue.js components based on Bootstrap's 
 * [Vue.js](http://vuejs.org/) (required ^v2.x.x, test with v2.0.3).
 * [Bootstrap CSS](http://getbootstrap.com/) (required 3.x.x, test with 3.3.6). VueStrap doesn't depend on a very precise version of Bootstrap.
 
+
+This repository is the version used by Cotabox, with some modifications to adapt in our workflow. Special thanks for Yuche and Wffranco for the original's repository.
+
 ## Installation
 
 ### NPM
 
 ```bash
-$ npm install github:wffranco/vue-strap --save
+$ npm install github:Cotabox/vue-strap --save
 ```
 
 ### CommonJS
